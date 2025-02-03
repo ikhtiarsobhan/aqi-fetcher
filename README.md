@@ -36,7 +36,7 @@ This project get the Air Quality Index (AQI) and relevant weather data of the us
 ## Usage
 1. Run the script:
    ```sh
-   python airquality.py
+   python project.py
    ```
 
 ## Functions
