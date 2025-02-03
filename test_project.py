@@ -6,7 +6,7 @@ import pandas as pd
 from io import StringIO
 
 # Import functions from the original script
-from your_script import load_api_key, get_user_location, fetch_data, get_aqi_description, display_and_save_data
+from project import load_api_key, get_user_location, fetch_data, get_aqi_description, display_and_save_data
 
 class TestAirQualityScript(unittest.TestCase):
     
